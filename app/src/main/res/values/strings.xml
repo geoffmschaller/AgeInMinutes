@@ -3,4 +3,6 @@
     <string name="app_title">Calculate Your</string>
     <string name="app_subtitle">In Minutes…</string>
     <string name="bold_title">Age</string>
+    <string name="choose_age_button">Choose your age</string>
+    <string name="minutes_label">Minutes old</string>
 </resources>
